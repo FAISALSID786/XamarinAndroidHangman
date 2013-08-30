@@ -1,0 +1,15 @@
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.mdb
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\bin\Debug\HelloWorld.HelloWorld.apk
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\bin\Debug\HelloWorld.HelloWorld-Signed.apk
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\android\bin\HelloWorld.HelloWorld.apk
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\res\layout\main.xml
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\res\values\strings.xml
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\res\drawable\icon.png
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\res\layout\mainmenu.xml
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\res\layout\gamelayout.xml
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\R.cs.flag
+C:\Users\srujiraviriyapinyo\Documents\Android\HelloWorld\HelloWorld\obj\Debug\uploadflags.txt

@@ -1,0 +1,2 @@
+HelloWorld.MainActivity;helloworld.MainActivity
+HelloWorld.Activity_NewGame;helloworld.Activity_NewGame
